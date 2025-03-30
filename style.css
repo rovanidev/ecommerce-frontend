@@ -13,6 +13,10 @@
     scroll-behavior: smooth;
 }
 
+html {
+    overflow-x: hidden;
+  }
+
 :root {
     --green-color: #3cb815;
     --light-green-color: #c0eb7b;
