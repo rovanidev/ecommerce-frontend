@@ -6,7 +6,7 @@ Este é um projeto de um site de e-commerce com foco em design responsivo e inte
 - HTML5
 - CSS3 (Design Responsivo)
 - JavaScript (Interatividade)
-- Git e GitHub para versionamento de código
+- Git para versionamento de código
 
 ## Visualização do Projeto
 Você pode acessar o site online através do GitHub Pages:
