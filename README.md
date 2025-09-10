@@ -11,7 +11,7 @@ Este é um projeto de um site de e-commerce com foco em design responsivo e inte
 ## Visualização do Projeto
 Você pode acessar o site online através do GitHub Pages:
 
-👉 [Clique aqui para ver o site funcionando](https://brunorovani.github.io/SushiDelivery/)
+👉 [Clique aqui para ver o site funcionando](https://rovanidev.github.io/ecommerce-frontend/)
 
 ## Funcionalidades
 - Layout responsivo para dispositivos móveis e desktop.
